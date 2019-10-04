@@ -30,3 +30,21 @@
 *.exe
 *.out
 *.app
+
+# Project specific files
+\build*
+\cmake-build-*
+
+# Misc IDEs and Toolchain
+\.idea/
+.cproject
+.project
+.settings
+**orig
+\.vscode/
+*.user
+*.bin
+session*/
+.kdev4
+*.kdev4
+
